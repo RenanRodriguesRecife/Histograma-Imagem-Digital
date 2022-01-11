@@ -1,3 +1,6 @@
+<code>pip install matplotlib</code>
+<code>pip install opencv-python</code>
+
 Histograma é uma tabela que mede para cada tom de cor o número de pixels que a imagem tem naquele tom.
 
 <img src=".assets/histograma.jpg">
