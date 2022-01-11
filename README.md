@@ -2,7 +2,7 @@
 <code>pip install opencv-python</code>
 
 <img src=".assets/img1.jpg">
-
+<img src=".assets/img2.jpg">
 
 Histograma é uma tabela que mede para cada tom de cor o número de pixels que a imagem tem naquele tom.
 
